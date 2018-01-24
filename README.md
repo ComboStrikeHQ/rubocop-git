@@ -6,6 +6,12 @@ RuboCop for git diff.
 [![Build Status](https://travis-ci.org/m4i/rubocop-git.svg?branch=master)](https://travis-ci.org/m4i/rubocop-git)
 [![Code Climate](https://codeclimate.com/github/m4i/rubocop-git.png)](https://codeclimate.com/github/m4i/rubocop-git)
 
+## Notice
+
+This is a fork, created because the original project doesn't seem to be
+maintained anymore. Should there be any issue, please check the pull-request
+for the original project, there is a good chance it has already been fixed.
+
 ## Installation
 
 Add this line to your application's Gemfile:
