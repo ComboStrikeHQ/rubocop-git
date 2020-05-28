@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'rubocop/git/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'rubocop-git'
+  spec.name          = 'cs-rubocop-git'
   spec.version       = RuboCop::Git::VERSION
   spec.authors       = ['Masaki Takeuchi']
-  spec.email         = ['m.ishihara@gmail.com']
+  spec.email         = ['developers@combostrike.com']
   spec.summary       = %q{RuboCop for git diff.}
   spec.description   = %q{RuboCop for git diff.}
-  spec.homepage      = 'https://github.com/m4i/rubocop-git'
+  spec.homepage      = 'https://github.com/ComboStrikeHQ/rubocop-git'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
