@@ -1,7 +1,9 @@
 language: ruby
 rvm:
-  - 2.1.10
-  - 2.4.1
+  - 2.4.10
+  - 2.5.8
+  - 2.6.6
+  - 2.7.1
 gemfile:
   - gemfiles/0.24.gemfile
   - gemfiles/0.25.gemfile
@@ -28,3 +30,39 @@ gemfile:
   - gemfiles/0.46.gemfile
   - gemfiles/0.47.gemfile
   - gemfiles/0.48.gemfile
+  - gemfiles/0.49.gemfile
+  - gemfiles/0.50.gemfile
+  - gemfiles/0.51.gemfile
+  - gemfiles/0.52.gemfile
+  - gemfiles/0.53.gemfile
+  - gemfiles/0.54.gemfile
+  - gemfiles/0.55.gemfile
+  - gemfiles/0.56.gemfile
+  - gemfiles/0.57.gemfile
+  - gemfiles/0.58.gemfile
+  - gemfiles/0.59.gemfile
+  - gemfiles/0.60.gemfile
+  - gemfiles/0.61.gemfile
+  - gemfiles/0.62.gemfile
+  - gemfiles/0.63.gemfile
+  - gemfiles/0.64.gemfile
+  - gemfiles/0.65.gemfile
+  - gemfiles/0.66.gemfile
+  - gemfiles/0.67.gemfile
+  - gemfiles/0.68.gemfile
+  - gemfiles/0.69.gemfile
+  - gemfiles/0.70.gemfile
+  - gemfiles/0.71.gemfile
+  - gemfiles/0.72.gemfile
+  - gemfiles/0.73.gemfile
+  - gemfiles/0.74.gemfile
+  - gemfiles/0.75.gemfile
+  - gemfiles/0.76.gemfile
+  - gemfiles/0.77.gemfile
+  - gemfiles/0.78.gemfile
+  - gemfiles/0.79.gemfile
+  - gemfiles/0.80.gemfile
+  - gemfiles/0.81.gemfile
+  - gemfiles/0.82.gemfile
+  - gemfiles/0.83.gemfile
+  - gemfiles/0.84.gemfile
