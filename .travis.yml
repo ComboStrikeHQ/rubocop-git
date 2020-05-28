@@ -28,5 +28,3 @@ gemfile:
   - gemfiles/0.46.gemfile
   - gemfiles/0.47.gemfile
   - gemfiles/0.48.gemfile
-before_install:
-  - gem update --system
